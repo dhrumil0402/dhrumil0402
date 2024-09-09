@@ -5,7 +5,7 @@ I'm a developer with a love for open-source projects. I enjoy playing with web m
 When I'm not coding, you can find me Travelling or outing with Friends.
 
 - 🌱 I’m currently Studying BE. IT at XAMK Finland.
-- 💬 Ask me about JavaScript, Python
+- 💬 Having Little bit knowledge of programming and coding.
 - 📫 How to reach me: pateldhrumil1312@gmail.com
 
 ## Connect with Me
